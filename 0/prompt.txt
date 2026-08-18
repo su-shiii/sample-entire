@@ -1,0 +1,1 @@
+print a pythin file that reads your birthday and tells you what zodiac you ate
